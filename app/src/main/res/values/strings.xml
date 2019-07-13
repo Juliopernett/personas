@@ -7,4 +7,10 @@
     <string name="agregar">Agregar</string>
     <string name="limpiar">Limpiar</string>
     <string name="numero">No.</string>
+    <string name="Opcion_1">Agregar</string>
+    <string name="Opcion_2">Listar</string>
+    <string-array name="opciones_lista">
+        <item>@string/Opcion_1</item>
+        <item>@string/Opcion_2</item>
+    </string-array>
 </resources>
